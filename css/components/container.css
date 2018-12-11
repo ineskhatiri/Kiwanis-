@@ -1,0 +1,11 @@
+.container {
+  width: 750px;
+  margin: 0 auto;
+  margin-bottom: 1px;
+}
+
+#marge
+{ background-color: #032960;
+  width: cover;
+  padding-right: 100px;
+ }
